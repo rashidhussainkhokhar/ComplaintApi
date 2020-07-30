@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6t1O5rtVRlthSVymJG39qabcCAqPkWr4vV8DLP64y/VEd42ZpzhD0icb+LQYq8wiA9QZeJVzdojgjforAd6wZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rashi\\source\\repos\\ComplaintApi\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rashi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
